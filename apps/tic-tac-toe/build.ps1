@@ -1,0 +1,1 @@
+python main.py --prompt apps/tic-tac-toe/prompt.md --generate_folder_path apps/tic-tac-toe/app --debug True
