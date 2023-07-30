@@ -246,5 +246,7 @@ things to try/would accept open issue discussions and PRs:
 - **using anthropic as the coding layer**
   - you can run `modal run anthropic.py --prompt prompt.md --outputdir=anthropic` to try it
   - but it doesnt work because anthropic doesnt follow instructions to generate file code very well.
-- **make agents that autonomously run this code in a loop/watch the prompt file** and regenerate code each time, on a new git branch
+make agents that autonomously run this code in a loop/watch the prompt file** and regenerate code each time, on a new git branch
   - the code could be generated on 5 simultaneous git branches and checking their output would just involve switching git branches
+
+Hello world
